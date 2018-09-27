@@ -1,0 +1,24 @@
+Origin: https://github.com/optyfr/jrommanager-debian
+Label: https://github.com/optyfr/jrommanager-debian
+Codename: jessie
+Architectures: x86, amd64, armel, armhf, arm64, mips, mips64el mipsel ppx64el s390x, powerpc, m68k, sparc64
+Components: contrib
+Description: JRomManager repository
+SignWith: 7AFB4586B6546A00
+
+Origin: https://github.com/optyfr/jrommanager-debian
+Label: https://github.com/optyfr/jrommanager-debian
+Codename: stretch
+Architectures: x86, amd64, armel, armhf, arm64, mips, mips64el mipsel ppx64el s390x, powerpc, m68k, sparc64
+Components: contrib
+Description: JRomManager repository
+SignWith: 7AFB4586B6546A00
+
+Origin: https://github.com/optyfr/jrommanager-debian
+Label: https://github.com/optyfr/jrommanager-debian
+Codename: buster
+Architectures: x86, amd64, armel, armhf, arm64, mips, mips64el mipsel ppx64el s390x, powerpc, m68k, sparc64
+Components: contrib
+Description: JRomManager repository
+SignWith: 7AFB4586B6546A00
+
