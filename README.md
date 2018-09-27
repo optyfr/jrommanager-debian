@@ -6,5 +6,5 @@ Debian repository for JRomManager
     * for Jessie: `echo "deb https://raw.githubusercontent.com/optyfr/jrommanager-debian/master/debian jessie contrib" >/etc/apt/sources.list.d/jrommanager.list`
     * for Stretch: `echo "deb https://raw.githubusercontent.com/optyfr/jrommanager-debian/master/debian stretch contrib" >/etc/apt/sources.list.d/jrommanager.list`
     * for Buster: `echo "deb https://raw.githubusercontent.com/optyfr/jrommanager-debian/master/debian buster contrib" >/etc/apt/sources.list.d/jrommanager.list`
-3. `apt update`
-4. `apt install jrommanager`
+3. update lists: `apt update`
+4. install: `apt install jrommanager`
