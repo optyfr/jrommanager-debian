@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: https://github.com/optyfr/jrommanager-debian
 Label: https://github.com/optyfr/jrommanager-debian
 Codename: jessie
-Date: Thu, 27 Sep 2018 08:39:31 UTC
+Date: Thu, 27 Sep 2018 08:55:51 UTC
 Architectures: i386 amd64 armel armhf arm64 mips mips64el mipsel ppx64el s390x powerpc m68k sparc64
 Components: contrib
 Description: JRomManager repository
@@ -130,17 +130,17 @@ SHA256:
  7af86359ce60042087965d6fefa08b0b788733814a3112d3d991266141dbb6ba 182 contrib/binary-sparc64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEmfzinrzVfopz5nakevtFhrZUagAFAlusl0MACgkQevtFhrZU
-agCM2Q//aP5f61ejo4asxY5UA2fMW847xMy2ebiA3S29fPmteGkPwauk6KDRzplO
-ioNWm7XIlrXSrc5HS1Ix7/Xs+98J2RmigYzrv9bGQksdZa/UK0qtTDrtmDRDNJ81
-QdQg3Y4EeF7E9LwZ6OLqxI6UrgrDJuk3Yyy89qMRFnUy2I0n0qeyL/D1cJbXu9fm
-228NBnQSMJndRHygCP7f5ygKT1QM0nTzTwzByZbkDCfBa8tzzos+1dF5bKOnkVKT
-dAxQAh7qC7yAy3vJX5NVIsGgh1hdn1b9EalJZgJIHP10U/WqUuO6BzMP4TzMMCCf
-/siXHgpAIfWko7/gsaHw+XtLSb57ACLg6yxm7zQX8kRQoTlJvFam4R1b89ZnKPIO
-qYYvosYyN9zExK6otwVrccrb3UoBIF6Juo583ZF4BbGzcWrdDlsjKp/mjT3LiPIf
-pAXhyLOmvSAZm4/NTuKbafdjoRfzof3JkfAfwpEOEnD0KB8E4EyLRC7ZWQEzpMPQ
-Wcac7ZYNYHOaAxX+nIB663bbfd/GFmuxBJCe/BIEJZerNxyrVyZ8e3GCQROkqzNu
-dkRiP/jMLhdt0/ujCT6vsH9HU13q6OP+5XVYb8zZnPsHVSD4RQGeLDH1UMNDNdTU
-Mea1cpOtP5NiFaMUA7mWJwSXSoqcDqJwQNaWsvaJOm3RF1Ac0aA=
-=QRH+
+iQIzBAEBCgAdFiEEmfzinrzVfopz5nakevtFhrZUagAFAlusmxgACgkQevtFhrZU
+agCPYw//QwxqSUkbIZTVcxde8NITODXqHSdGdJ239/OajDpMyT1iJN/zmrL7svqy
+pN7P3dZtrS+mXRVnuKEczGNVQyHmrTzdPaMuy79CwTYKwrab6QkzP1ch3yR1kpfg
+uJDWRVeJxUDbdPOXVt+9PV2D7cw7hTyQAYNJIGtd0EUD/uUG1/G4ZN6ibQzOO8+B
+7AAqZVWC9V2kPcgY6lIs/rqMLpSLQajt3ERT7xNMaEL/GUsTh6vAcpbcyzr3I+sO
+KggBz/BSu8EJcD808c5kMKKy1IJmHPzqZi6P4uyPtMMrdqDA3/Xg48m5bzQ1SWp+
+w87Lhr4ml4Nj+2aAhzsCoNLj3qKVihbPOmmdxoedUxVUsf3hJPn5lHSatiW66Sos
+z84iLSMa/AD57Y/P5uzN4FMlK5dDXreK6pD6MaNPfh3mVsh4H9k1bQ3M4ECxz1+/
+dFfxHDT3pOb1lE5uTKK7X2aEJQsQyXwzYVcFDzsCyaBawALZHgJw0+9i5iSqoaZ4
+ctUfXDQtmSAWR/rSw7saNOdy+85OuJ+H2zk2mN189+OGQ9K1vHwJH9aAu+/V6e6W
+qB+ry4j9Gs9IwRNyZliaUNbTKuMQwh7daBLA8vZlMxx8h4MDl6BD4XhFgymrO5r0
+TmE2xtPFIyxaZn/aNP5eqoZAZRWY80CZp618uK7aTJHPVoz1U40=
+=2DEo
 -----END PGP SIGNATURE-----

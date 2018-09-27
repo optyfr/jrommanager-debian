@@ -1,7 +1,7 @@
 Origin: https://github.com/optyfr/jrommanager-debian
 Label: https://github.com/optyfr/jrommanager-debian
 Codename: buster
-Date: Thu, 27 Sep 2018 08:39:12 UTC
+Date: Thu, 27 Sep 2018 08:56:09 UTC
 Architectures: i386 amd64 armel armhf arm64 mips mips64el mipsel ppx64el s390x powerpc m68k sparc64
 Components: contrib
 Description: JRomManager repository

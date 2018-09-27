@@ -1,7 +1,7 @@
 Origin: https://github.com/optyfr/jrommanager-debian
 Label: https://github.com/optyfr/jrommanager-debian
 Codename: jessie
-Date: Thu, 27 Sep 2018 08:39:31 UTC
+Date: Thu, 27 Sep 2018 08:55:51 UTC
 Architectures: i386 amd64 armel armhf arm64 mips mips64el mipsel ppx64el s390x powerpc m68k sparc64
 Components: contrib
 Description: JRomManager repository

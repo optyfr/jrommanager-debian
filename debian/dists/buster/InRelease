@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: https://github.com/optyfr/jrommanager-debian
 Label: https://github.com/optyfr/jrommanager-debian
 Codename: buster
-Date: Thu, 27 Sep 2018 08:39:12 UTC
+Date: Thu, 27 Sep 2018 08:56:09 UTC
 Architectures: i386 amd64 armel armhf arm64 mips mips64el mipsel ppx64el s390x powerpc m68k sparc64
 Components: contrib
 Description: JRomManager repository
@@ -130,17 +130,17 @@ SHA256:
  7af86359ce60042087965d6fefa08b0b788733814a3112d3d991266141dbb6ba 182 contrib/binary-sparc64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEmfzinrzVfopz5nakevtFhrZUagAFAluslzAACgkQevtFhrZU
-agBDUhAAkqj9tS2tjcYs2KOZyM2ewtlvA5FVyAQxW/VAgdCN7VRYGVjN5xTP9pC9
-0yH9m6XI15qUvyV5mDlRRh43pzsnnvDSm5Pu3pr5Cw1ufRmZqmtRrg5X7GcPQZ50
-Na1S2eHjop4dY0nvCPhdA3V46b9cZo6msSRZd43IxP/bt5j9+qy/i7pB2P5gq7zA
-O6Q4gvLj/+DiDzcb0XRVV33x9lCADWsfya9AUE7dzP3QYw9ftaol1ExiIHsuid5R
-+jSWt9J3eDgt8FTNs4isjqr38BVxpIyqiq39KFyVA18bfiRdA4GpznMthz3BK82L
-885cK2v0iGtOgEKGfz8hqZOO6bPBLpOLYpdYCyxXGaANXvNKMOmYQasfZfR4L45Y
-7yGId6J/bbZcoxnScp3elEwDsyvOyJ304Ry75T4nV+iOt+xSmYF7RlssXN9x/Hri
-V7C7/7cvXlHizOoPwoHgbbXZATkhPfX4LZsmc7ydib05BNFqxYkPPAz811kHL9XR
-w/tHgyKJAPFRXj9AS4NQ0bEPefLrjr8Xn4H28Vw9DWwj0OOR13uXUJdlrl9k1/xj
-CR8jZmu3neJRsECku0dxrquzE4RUL/dQedkrGV3ltcbvf6fZxMnYci+8CdUWwXoJ
-XIoxNseejIZV4cSCmLsf9nbNxniuVG7ZFV/x1I5zuWFFt7aXvpg=
-=TX2T
+iQIzBAEBCgAdFiEEmfzinrzVfopz5nakevtFhrZUagAFAlusmykACgkQevtFhrZU
+agB51w//aesYlAIBneKdPS+LMGBHMp6JzyzZYQknzLioaYZRIyfUnNF0pQa/h7QN
+e2DSifPtiPFVtnXpp5Ru0NPVRvz3ENMTBvNNFIM8i4LIJZqgRNHUXIT1BlwcgD44
+v+FB3LLmfmfRbiHE4hzyCUslxq6I1QSIAfUbk4BxoGz48sCmMdWWSE51SeUetCuf
+7tcD2eJfLPqpw85pKX3OzKdr8oqHwsVFy9PGG4BY7QLcpdNn9SMLFL8aOjamMwlk
+P89NbbB4B74/HsJbmUyUAWu0tRvd77L3OCDwQehYw44Yl1KwHY8YNBo0JCg4TWNC
+QEeUKv7/NYJjO7ukl1x8fMlMbN8EH2NGX1t8Eh8NlQz55m2/Mn3KBk4VqmbxHtkh
+p2RZpJIeqFSMqs44mmlxiGyhjftYyT6Fr/fA2F/qNdxknh7r7HPVnnNpd2EgIPh9
+Ddxh9DjZW3Ur5Jqg/2413xzaIPrnByMHd3rGA3UTg0psHTqCiWhaPQXLj71Mhwlg
+1gS4a1Z3s6rcNp+PTgON0Xy7QJSnCLIwUjMAt2Eno1m+UMBY7Df2SFoF9ea/mCBB
+22nqdWj6j/ScBz62EjHYLU3lU028MRvkXiAIt+AG0yj6kqlaBSAv/sJp9HRM41lV
+SN4QDh6Dv++1P/eq+4JPEBtTtQ4dIo1qTAQ64fF/yX/dktEZFVo=
+=Qibq
 -----END PGP SIGNATURE-----

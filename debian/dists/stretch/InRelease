@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: https://github.com/optyfr/jrommanager-debian
 Label: https://github.com/optyfr/jrommanager-debian
 Codename: stretch
-Date: Thu, 27 Sep 2018 08:38:50 UTC
+Date: Thu, 27 Sep 2018 08:56:02 UTC
 Architectures: i386 amd64 armel armhf arm64 mips mips64el mipsel ppx64el s390x powerpc m68k sparc64
 Components: contrib
 Description: JRomManager repository
@@ -130,17 +130,17 @@ SHA256:
  7af86359ce60042087965d6fefa08b0b788733814a3112d3d991266141dbb6ba 182 contrib/binary-sparc64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEmfzinrzVfopz5nakevtFhrZUagAFAluslx4ACgkQevtFhrZU
-agAf/w//apd/PpbBNmhBPB8cryC0W3prOP1yP5+7XuBXVg9Ne78XfVDZOU42Gdnn
-QKbglPvTrXFacCUmF2rtIHb2dCzJ6arq/RKyzFPyvHRaWVDEvG5v4CkaVlQf9Pyx
-IJ7P83daQTjFSlnFgcZC/IHH1OME2X1dZdAXP0+GBQn+PGg6Axj59VZVO3ycWD0E
-Wt2xWugGC6AW8SXSjVE3yEnhrE3OQ5TrpHdiKHLspnvVnJkbGdR83LExaKrgRvIa
-Rg9UbGJYjiJQlkS0X815aZ3l3qK/T/p0+WdTcV2azIsKEJ4221rdnKe67E0tcVAF
-5RbGYDaAfZWV7Q46Lpc/GCctWAi+djA5t5+OHAYIMlvyeNAfkJowsGxRq+K1N8TA
-otKAmRPz/SaxOhmdzrq2V71TAs71KGWnpKFBbNqDdnuo4+9nuQMfbKL3MJ2G/Sb9
-BsQDUkEAu12nU+Ufht6MbvHDWhYtx/6oqH1w4lwIH4YoisUKmDOXnotWbiYzS8k+
-lgryiJ8VP2YGAp+GrdaQSZBXHRY5C7QvIVtF4S0sYBhVlx917Ekuy95z68hTASX8
-55e9LkkSc6mOis+wnZGnu89Zxma+jvxuIiMpzd0Dv2rPuUdfmRyMoXcF3/tMcM03
-Apbb9+1nkE8DswzlK1H+26AKCRzSnMNlBE3yw5HXkaldhuysY2E=
-=dSsV
+iQIzBAEBCgAdFiEEmfzinrzVfopz5nakevtFhrZUagAFAlusmyMACgkQevtFhrZU
+agCxmhAAi41mC9Klife94KF+tHu1SQzz6LqVTuzFo3T7c4hSD9VNYoxkt8NPAXM3
+9WRSmafvwTqIkGHh3jQh3WKoZsWyCywiS94hea02ZQS9JSAfYvZcdWBBReKnFtX9
+JxhwZNSpIsnam7hTWk/m2H/y+HuHJNT8tTSMEF4zyQ3jMVj3WOxCJSdrbTFBOjHK
+VpWhdhA1vjiUOmS2gRg5OI+TTeAyHpdljB1gMA1GU/fEMR5HNa7mFrCNlr65xfOu
+FG1YNAN+4uKT0mtsIx4UxKnIQo23jUvZU9Itv++9Xiz6q2PSUDjMOX3VEbwIZB8G
+67D9eoUSEfI1z97KHhYJYYTdCl13UF4vaBZo7vFn2YksAAa56jR2pp8vp2n5Ju0A
+HVnzqdD1Or0V64y/IFpRyvOtLqpGktwRSpBUsD0Yxw+Q83bTuKQ5EQBGwemAKRjp
+t67Z26HsKmjvX6W6O3qOsw0qHt5c+ZVgQS1m7UtDmO3tnelQCAOuyTKcm8E1/o4o
++2eT7FPgfGupN6+mm7C/S9i1amRXhPQLwHJOOAPneEm4D8+7nStQ5Z04NRMlrJ2P
+taSVKhoW4L4KZDUerXyTmQBDWMSDCjRxMkfMBBw2exiH4j+H97zFjlT+gSmcUaqF
+3+A2+vdCSh4cw0TJQ3ORuyJgmB8lRKgd36QArWVwtMr4q7CpYAw=
+=EyTl
 -----END PGP SIGNATURE-----
