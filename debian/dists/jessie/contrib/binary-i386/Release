@@ -1,0 +1,5 @@
+Component: contrib
+Origin: https://github.com/optyfr/jrommanager-debian
+Label: https://github.com/optyfr/jrommanager-debian
+Architecture: i386
+Description: JRomManager repository
