@@ -1,17 +1,17 @@
 Package: jrommanager
 Source: jrommanager
-Version: 2.0.3-1
+Version: 2.1.0-1
 Architecture: all
 Depends: java8-runtime | java9-runtime | java10-runtime | java11-runtime
-Installed-Size: 34518
+Installed-Size: 35532
 Maintainer: optyfr
 Priority: optional
 Section: java
-Filename: pool/contrib/j/jrommanager/jrommanager_2.0.3-1_all.deb
-Size: 17987016
-SHA256: 94cd6f4907fccdefd5f0456ee750f8bd048fbd29abcbaa08085985eb8900e6c5
-SHA1: f0f0f0272af5dde405d926a6e02037f588a84bc7
-MD5sum: 5b8464406a37704b13184c4cbf965152
+Filename: pool/contrib/j/jrommanager/jrommanager_2.1.0-1_all.deb
+Size: 18995528
+SHA256: 12a6ec8757a84de7220720d0bc00e881c9a4e9c4d0d67bb43bda0dd0e6d5ab34
+SHA1: 39d221636198de04323f3a2c605e3d4243b623ae
+MD5sum: 3a667b3a8f5fe6a91ac18901fe431c13
 Description: jrommanager
  A Mame and Retrogaming Rom Manager, Java alternative to ClrMamePro
 Homepage: https://github.com/optyfr/JRomManager
