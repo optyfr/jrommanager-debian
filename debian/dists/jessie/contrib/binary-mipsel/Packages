@@ -8,10 +8,10 @@ Maintainer: optyfr
 Priority: optional
 Section: java
 Filename: pool/contrib/j/jrommanager/jrommanager_2.4.2-1_all.deb
-Size: 39266982
-SHA256: 2a97346be0aa90fd332dc49a79141ee5341de6428c060f86c899bf71091afb1c
-SHA1: 045419e14d71649f75dcd062d98dc918099c1c9a
-MD5sum: db44093dc07e1149b6efc6bea0fc2d89
+Size: 39266892
+SHA256: a960765374b94cc62a63e5601750ac363eeb1c6b4f9490236dde9eb22f803c1e
+SHA1: dd7c93c074790278258d8b035b84d9658c116c75
+MD5sum: d2fc2d6a690da3d6e7f3afd9f1f22faf
 Description: jrommanager
  A Mame and Retrogaming Rom Manager, Java alternative to ClrMamePro
 Homepage: https://github.com/optyfr/JRomManager
